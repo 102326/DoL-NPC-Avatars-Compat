@@ -1,0 +1,5 @@
+dist/
+changes.diff
+tests/*-evidence.json
+__pycache__/
+*.pyc

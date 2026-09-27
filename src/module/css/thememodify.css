@@ -1,0 +1,3 @@
+[data-theme="latte"] img.icon.infront:not([src^="bl"]):not([src^="st"]) {
+    filter: none !important;
+}
